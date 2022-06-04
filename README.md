@@ -17,4 +17,4 @@ The detailed codes are based on:
 
 2.Zero-Shot Chinese Character Recognition with Stroke-Level Decomposition  [https://github.com/FudanVI/FudanOCR/tree/main/stroke-level-decomposition](url).
 
-Thanks very much!
+Thanks very much!<a href="https://blog.csdn.net/PPLLO_o" target="_blank">PPLLO_o</a>
