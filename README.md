@@ -2,7 +2,7 @@
 This is the implementation of the paper: Stroke-Based Autoencoders: A Pre-training model for Efficient Zero-Shot Chinese Character Recognition. 
 
 ## Datasets 
-Stroke image sequences dataset can be accessed in the project [https://hanziwriter.org](url) or [https://hanziwriter.org](url).
+Stroke image sequences dataset can be accessed in the project [https://hanziwriter.org](url) or [https://github.com/ZongzeChen/Stroke-based-Autoencodes-SAE-/tree/main/Datasets/Stroke%20image%20sequences](url).
 
 HWDB dataset can be accessed in [http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html](url).
 
