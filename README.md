@@ -11,7 +11,7 @@ Printed Artistic dataset can be accessed in <a href="https://pan.baidu.com/s/1id
 
 ## Acknowledgements
 
-The detailed codes are based on:
+The general framework are based on:
 
 1.Masked Autoencoders Are Scalable Vision Learners  <a href="https://github.com/pengzhiliang/MAE-pytorch" target="_blank">link</a>(unofficial).
 
