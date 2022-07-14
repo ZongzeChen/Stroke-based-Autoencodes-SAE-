@@ -18,3 +18,5 @@ The general framework are based on:
 2.Zero-Shot Chinese Character Recognition with Stroke-Level Decomposition  <a href="https://github.com/FudanVI/FudanOCR/tree/main/stroke-level-decomposition" target="_blank">link</a>.
 
 Thanks very much!
+
+### If has any question, may send the e-mail to zezongchen@whut.edu.cn .
