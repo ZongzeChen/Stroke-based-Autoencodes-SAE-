@@ -19,4 +19,4 @@ The general framework are based on:
 
 Thanks very much!
 
-### If has any question, may send the e-mail to zezongchen@whut.edu.cn .
+### If has any question, may send the e-mail to zezongchen27@gmail.com .
