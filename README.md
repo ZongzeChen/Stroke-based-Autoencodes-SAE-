@@ -7,9 +7,7 @@ Stroke image sequences dataset can be download from the project hanzi writer  <a
 HWDB1.0-1.1 dataset and ICDAR2013 dataset can be accessed in <a href="http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html" target="_blank">link</a>.
 
 Printed Artistic dataset can be accessed in <a href="https://pan.baidu.com/s/1idbLAliUpsgB_IyuDS8EXg" target="_blank">link</a>.
-## Experiments
-
-## Acknowledgements
+## Experiments and Acknowledgements
 
 The general framework are based on:
 
